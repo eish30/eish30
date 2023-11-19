@@ -1,32 +1,18 @@
-![image](https://github.com/eish30/eish30/assets/113579065/8ebcae65-8f97-4e26-9d17-48e5d947a2b0)
+<h1 align="center">Hi 👋, I'm Eishani Bhattacharya</h1>
+<h3 align="center">A passionate coder from India</h3>
 
-# 💫 About Me:
-🔭 I am currently pursuing B. Tech. in C.S.E. at Vellore Institute of Technology, Bhopal<br>👯 I am open to meaningful collaborations in ML domain<br>🤝 I am looking for a learning partner to shoo my procrastination away<br>🌱 I am currently sharpening my Machine Learning and Data Analytics skills<br>☁️ Ask me about life, I'll always have something to say<br>⚡ Fun fact: I love making envelopes 🧧
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eish30&label=Profile%20views&color=0e75b6&style=flat" alt="eish30" /> </p>
 
+- 📫 How to reach me **eishanibhattacharya@gmail.com**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EishaniB#1926) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nabillera_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eishanibhattacharya30) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EishaniB) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eish30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eish30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eish30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=EishaniB)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eish30&show_icons=true&locale=en" alt="eish30" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eish30&" alt="eish30" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eish30&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=eish30&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
